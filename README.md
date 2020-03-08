@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#About
+##About
+
 React application that allows you to search for github profiles by name or username. Implemented using the useContext and useReducer hooks for better state management. Upon search filtering, Users can click on the profile and see user information of their github and allows them to visit their github profile. Users can see their most recent repositories listed and visit those repositories themselves.
 
 ## Available Scripts
